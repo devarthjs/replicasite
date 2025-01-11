@@ -1,0 +1,109 @@
+
+  .hoverbg:hover {
+    background-color: #198754 !important; /* Success green */
+  }
+
+  .hoverbgbtn1:hover {
+
+    background-color: #405f2b2f !important;
+  }
+
+
+  .hoverbgbtn2:hover {
+
+    background-color: #7dcb49 !important;
+  }
+
+  .hoverbgbtn:hover {
+
+    border-radius: 4px;
+
+    background-color: gray;
+  }
+
+  
+
+
+@media screen and (min-width: 1200px) {
+
+    .shift1 {
+
+        left: 33.8rem !important;
+    } 
+    
+}
+
+
+@media screen and (min-width: 1400px) {
+
+    .shift1 {
+
+        left: 39.5rem !important;
+    }
+
+    .pbc {
+
+        padding-bottom: 30px;
+    }
+}
+
+
+
+@media screen and (min-width: 1500px) {
+
+    .head1 {
+        margin-left: 250px !important;
+    }
+
+    .head2 {
+        margin-right: 290px !important;
+    }
+
+    .shift {
+
+        left: 20rem !important;
+
+    }
+
+    .shift1 {
+
+        left: 39.5rem !important;
+    }
+}
+ 
+.hoverbgbtn3:hover {
+
+    background-color: #7dcb49 !important;
+
+}
+
+.shadow-box {
+    width: 200px;
+    height: 100px;
+    background-color: #f8f9fa;
+    box-shadow: 4px 4px 15px 20px rgba(0, 0, 0, 0.3);
+    text-align: center;
+    border-radius: 5px; /* Optional: Rounds the corners */
+  }
+
+.imgsz { 
+
+    height: 57px;
+    width: 162px;
+
+}
+
+.bgrad {
+
+    
+        background: radial-gradient(circle, #0f2027, #203a43, #2c5364);
+        margin: 0;
+
+    }
+
+
+.socialhover:hover {
+
+    color: #198754 !important;
+}
+
